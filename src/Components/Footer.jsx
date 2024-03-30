@@ -16,7 +16,7 @@ function Footer() {
               fontWeight: "bold",
             }}
           >
-           <img className="text-center" src="/video/sk logo.png" alt="logo" style={{width:"100px"}}/>
+           <img className="text-center" src="/video/Vani logo.png" alt="logo" style={{width:"100px"}}/>
           </a>{" "}
           {new Date().getFullYear()}
         </p>
